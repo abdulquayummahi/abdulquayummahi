@@ -4,7 +4,7 @@ Final-year **Computer Science & Engineering** student at **American Internationa
 
 - 🎯 **Current Focus:** Seeking **Software Engineering, Full-Stack, Mobile, or AI/ML Internships** starting **January–February 2027**
 - 🔬 **Research:** Undergraduate ML Thesis on Voice-Based Gender Recognition & Bangla Noisy-Text Normalization / Sentiment Classification
-- 🌐 **Portfolio:** [abdulquayummahi.github.io](https://abdulquayummahi.github.io)
+- 🌐 **Portfolio:** [abdulquayummahi.github.io](https://abdulquayummahi.github.io) | 💼 [LinkedIn](https://linkedin.com/in/your-handle) | ✉️ [your.email@example.com](mailto:your.email@example.com)
 
 ---
 
@@ -23,9 +23,9 @@ Final-year **Computer Science & Engineering** student at **American Internationa
 
 | Project | Stack | Highlights |
 | :--- | :--- | :--- |
-| **PC Builders** | ASP.NET Core MVC, C#, EF Core, SQL Server | Full-stack N-Tier e-commerce web platform with authentication and inventory management |
-| **TutorBD** | NestJS, TypeORM, PostgreSQL, Next.js | Backend REST APIs, relational entity modeling, and dynamic routing for tutor matching |
-| **EventHub** | React Native, Expo, TypeScript | Cross-platform mobile application for event discovery and booking |
-| **SwiftCheckoutPOS** | C# .NET, SQL Server LocalDB | Offline-first desktop Point-of-Sale system with automated database testing |
-| **CraveCart** | PHP, MySQLi, JavaScript | Multi-role food ordering web platform structured with MVC architecture |
-| **Bangla NLP & Voice ML** | Python, NLTK, spaCy, scikit-learn, NumPy | Noisy-text normalization pipeline and acoustic feature gender classification models |
+| [**SwiftCheckoutPOS**](https://github.com/abdulquayummahi/swift-checkout-pos) | C# .NET, EF Core, SQL Server LocalDB | Offline-first desktop POS with security hardening, bounded paging, EF execution-strategy refunds, and SQL integration tests |
+| [**Ayojon**](https://github.com/abdulquayummahi/ayojon-frontend) ([Backend](https://github.com/abdulquayummahi/ayojon-backend)) | React Native, Expo, TypeScript | Cross-platform event discovery and booking application with dedicated backend API |
+| [**TutorBD**](https://github.com/abdulquayummahi/tutorbd-backend) ([Frontend](https://github.com/abdulquayummahi/tutorbd-frontend)) | NestJS, TypeORM, PostgreSQL, Next.js | Full-stack tutor matching platform with modular REST APIs, relational entity modeling, and dynamic routing |
+| [**Bangla Noisy-Text Normalizer**](https://github.com/abdulquayummahi/bangla-noisy-text-normalizer) | Python, NLTK, spaCy, scikit-learn, NumPy | Applied NLP normalization pipeline for noisy Bangla text and downstream sentiment classification |
+| [**Apartment Management**](https://github.com/abdulquayummahi/apartment-management) | TypeScript | Web application for managing shared apartment operations, utilities, and tenant records |
+| **PC Builders** *(add repo link if public)* | ASP.NET Core MVC, C#, EF Core, SQL Server | Full-stack N-Tier e-commerce web platform with role-based auth and inventory management |
